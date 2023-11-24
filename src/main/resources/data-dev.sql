@@ -1,0 +1,2 @@
+insert into objetivos(id) values ('3.8');
+insert into indicadores(id,descricao) values ('3.8.2','Proporção de pessoas em famílias com grandes gastos em saúde em relaçăo ao total de despesas familiares');
